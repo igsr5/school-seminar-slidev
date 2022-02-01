@@ -35,6 +35,7 @@ header: 令和3年度 情報工学ゼミⅡ 演習発表
 OT（Operational Technology）= 制御技術・運用技術
 IT（Information Technology）に対して製造業などで用いられるハードウェア上での
 セキュリティのこと。
+
 ref. https://www.digital-transformation-real.com/blog/what-is-ot-security
 
 ---
@@ -47,7 +48,7 @@ ref. https://www.digital-transformation-real.com/blog/what-is-ot-security
 
 - サイバー攻撃には Kali Linux を利用する
 
-GRFICSv2, Kali については次のページで説明します。
+GRFICSv2, Kali Linux については次のページで説明します。
 
 ---
 
