@@ -12,7 +12,7 @@ header: 令和3年度 情報工学ゼミⅡ 演習発表
 
 ---
 
-# TL;DR
+# スライド概要
 
 - この演習では OT セキュリティについて扱った
 
@@ -66,7 +66,7 @@ Unity で動く産業制御システムのシミュレーション。
 
 ![width:700](https://github.com/Fortiphyd/GRFICSv2/blob/master/figures/simulation.png?raw=true)
 
-今回の演習ではサイバー攻撃によってこの画面が爆発したりします。
+今回はサイバー攻撃によってこの画面が爆発したり通信内容を盗聴したりする。
 
 ---
 
@@ -84,7 +84,7 @@ https://www.kali.org/
 
 # システム構成
 
-今回のシミュレーションは全て Visrtual Box で起動した仮想マシン上で行う。
+今回のシミュレーションは全て Virtual Box で起動した仮想マシン上で行う。
 サーバ構成は下記の通り。
 
 ## ![](./img/vm-arch.png)
@@ -136,7 +136,7 @@ ref. https://www.youtube.com/watch?v=TeNy92ZFNQY
 
 # SDGs との関連
 
-![width:300](./img/sdgs.png)
+![width:250](./img/sdgs.png)
 
 ## 「9. 産業と技術革新の基盤をつくろう」
 
